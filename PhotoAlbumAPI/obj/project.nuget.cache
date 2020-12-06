@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5geUAHGb83CTH6UtXPSQoElclDPfFgfpATsx0CMefa0OOk7v1vkDeyFH7vitJUcLZ90YKzIAovOt1meOOkKGLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\PhotoAlbumAPI\\PhotoAlbumAPI\\PhotoAlbumAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
